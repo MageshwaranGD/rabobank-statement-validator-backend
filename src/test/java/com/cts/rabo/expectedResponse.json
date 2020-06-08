@@ -1,0 +1,15 @@
+[
+    {
+        "result": "DUPLICATE_REFERENCE",
+        "errorRecords": [
+            {
+                "reference": 112806,
+                "accountNumber": "NL69ABNA0433647324"
+            },
+            {
+                "reference": 112806,
+                "accountNumber": "NL93ABNA0585619023"
+            }
+        ]
+    }
+]
